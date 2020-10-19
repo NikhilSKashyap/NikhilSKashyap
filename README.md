@@ -26,3 +26,11 @@ Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building 
 | Machine Learning and Deep Learning Frameworks          |	Scikit Learn, Tensorflow, Keras, Pytorch    |
 | CI/CD                                                  |	Git, CircleCI                               |
 | Web Deployment and APIs                                |	Flask, Django, Tensorflow serving           |
+
+<br/>
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
