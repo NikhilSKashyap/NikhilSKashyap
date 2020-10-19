@@ -22,6 +22,11 @@ Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building 
 - You can share a good wildlife documentary with me. My recommendation to you is "The Last Lions", directed by Dereck Joubert and narrated by Jeremy Irons.
 - You can find me reading about [Indian History](https://en.wikipedia.org/wiki/Vijayanagara_Empire), [Indian Philosophy](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti) and [Indian International Relations](https://www.mea.gov.in/) in my free time.
 
+<br>
+<br>
+<br>
+<br>
+
 **SKILLS** 
 
 <table>
