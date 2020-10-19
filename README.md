@@ -12,24 +12,15 @@
 
 <br>
 <br>
-
+<img align="left" alt="GIF" src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" />
 Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building various statistical and deep learning models for many businesses. Currently, I am freelancing Data Science projects. I am available for hire as a Freelance Data Scientist, Machine Learning Engineer, or a consultant. You can find my resume [here](https://nikhilskashyap.github.io/cv/). 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" />
+
 
 **INTERESTS**
 
 - My current interests are in NLP, Machine Translation and Graph Neural Networks.
 - You can share a good wildlife documentary with me. My recommendation to you is "The Last Lions", directed by Dereck Joubert and narrated by Jeremy Irons.
 - You can find me reading about [Indian History](https://en.wikipedia.org/wiki/Vijayanagara_Empire), [Indian Philosophy](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti) and [Indian International Relations](https://www.mea.gov.in/) in my free time.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **SKILLS** 
 
