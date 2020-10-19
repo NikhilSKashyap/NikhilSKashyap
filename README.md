@@ -9,4 +9,4 @@
 <br />
 
 Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have worked on various statistical and deep learning models for many businesses. 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" />
