@@ -26,6 +26,10 @@ Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 **SKILLS** 
 
