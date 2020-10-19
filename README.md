@@ -12,10 +12,12 @@
 
 <br>
 <br>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" />
 Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building various statistical and deep learning models for many businesses. Currently, I am freelancing Data Science projects. I am available for hire as a Freelance Data Scientist, Machine Learning Engineer, or a consultant. You can find my resume [here](https://nikhilskashyap.github.io/cv/). 
 
 <br>
+
 **INTERESTS**
 
 - My current interests are in NLP, Machine Translation and Graph Neural Networks.
@@ -26,6 +28,9 @@ Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building 
 <br>
 <br>
 <br>
+<br>
+<br>
+
 **SKILLS** 
 
 <table>
