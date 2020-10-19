@@ -17,12 +17,12 @@ Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" />
 
 **SKILLS**<br/>
-Programming Languages|	Python C, C++
-Data Storage Platforms and Database Management Systems|	MySQL Postgres, MongoDB
-Big Data tools|	PySpark Kafka
-Editors and Notebooks & Visualisation tools|	Vim, Emacs, Atom, VS Code, Jupyter Notebook
-Cloud Platforms|	GCP, AWS
-Resource Management tools|	Docker, Kubernetes
-Machine Learning and Deep Learning Frameworks|	Scikit Learn, Tensorflow, Keras, Pytorch
-CI/CD|	Git, CircleCI
-Web Deployment and APIs|	Flask, Django, Tensorflow serving
+| Programming Languages |	Python C, C++ |
+| Data Storage Platforms and Database Management Systems |	MySQL Postgres, MongoDB |
+| Big Data tools | PySpark Kafka |
+| Editors and Notebooks & Visualisation tools |	Vim, Emacs, Atom, VS Code, Jupyter Notebook |
+| Cloud Platforms |	GCP, AWS |
+| Resource Management tools |	Docker, Kubernetes |
+| Machine Learning and Deep Learning Frameworks |	Scikit Learn, Tensorflow, Keras, Pytorch |
+| CI/CD |	Git, CircleCI |
+| Web Deployment and APIs |	Flask, Django, Tensorflow serving |
