@@ -16,13 +16,13 @@
 Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building various statistical and deep learning models for many businesses. Currently, I am freelancing Data Science projects. I am available for hire as a Freelance Data Scientist, Machine Learning Engineer, or a consultant. You can find my resume [here](https://nikhilskashyap.github.io/cv/). 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" />
 
-**SKILLS**
-Programming Languages	Python, C, C++
-Data Storage Platforms and Database Management Systems	MySQL, Postgres, MongoDB
-Big Data tools	PySpark, Kafka
-Editors and Notebooks & Visualisation tools	Vim, Emacs, Atom, VS Code, Jupyter Notebook
-Cloud Platforms	GCP, AWS
-Resource Management tools	Docker, Kubernetes
-Machine Learning and Deep Learning Frameworks	Scikit Learn, Tensorflow, Keras, Pytorch
-CI/CD	Git, CircleCI
-Web Deployment and APIs	Flask, Django, Tensorflow serving
+**SKILLS**<br/>
+Programming Languages|	Python C, C++
+Data Storage Platforms and Database Management Systems|	MySQL Postgres, MongoDB
+Big Data tools|	PySpark Kafka
+Editors and Notebooks & Visualisation tools|	Vim, Emacs, Atom, VS Code, Jupyter Notebook
+Cloud Platforms|	GCP, AWS
+Resource Management tools|	Docker, Kubernetes
+Machine Learning and Deep Learning Frameworks|	Scikit Learn, Tensorflow, Keras, Pytorch
+CI/CD|	Git, CircleCI
+Web Deployment and APIs|	Flask, Django, Tensorflow serving
