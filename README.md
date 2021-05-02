@@ -22,7 +22,7 @@ Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building 
 
 **INTERESTS**
 
-- My current interests are in NLP, Machine Translation and Graph Neural Networks.
+- My current interests are in Computer Vision, Probabilistic Inference, NLP, Data Retrieval from large datasets, Knowledge Representation, Databases, ML Engineering, MLOps.
 - You can share a good wildlife documentary with me. My recommendation to you is "The Last Lions", directed by Dereck Joubert and narrated by Jeremy Irons.
 
 <br>
