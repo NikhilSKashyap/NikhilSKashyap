@@ -15,14 +15,15 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/wypKXPQggwaCA/giphy.gif" />
 
-Hi! I'm Nikhil Kashyap, a Machine Learning Engineer. I have experience building various statistical and deep learning models for many businesses. Currently, I am freelancing Data Science projects. I am available for hire as a Full-Time/Freelance Data Scientist, Machine Learning Engineer, or a consultant. You can find my resume [here](https://nikhilskashyap.github.io/cv/). 
+Hi! I'm Nikhil Kashyap, a Machine Learning Engineer with 4+ years of work experience. My interest is to understand how to design ML systems for specific business problems. In doing this, I've looked to understand the patterns of good ML design and the processes that support MLOps. I've become a big fan of agile approaches. I’m skilled in Machine Learning, Statistics, Problem Solving, and Programming.
 
+Update: I will be flying to University of Washington, Seattle for Fall 2022 to pursue my Masters in Electrical Engineering. 
 <br>
 <br>
 
 **INTERESTS**
 
-- My current interests are in Computer Vision, Probabilistic Inference, NLP, Information Retrieval from large datasets, Knowledge Representation, Databases, ML Engineering, MLOps.
+- My current interests are in understanding and automating certain business problems through Vision AI. 
 - You can share a good wildlife documentary with me. My recommendation to you is "The Last Lions", directed by Dereck Joubert and narrated by Jeremy Irons.
 
 <br>
