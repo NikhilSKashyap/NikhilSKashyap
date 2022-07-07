@@ -44,15 +44,15 @@ Update: I will be flying to University of Washington, Seattle for Fall 2022 to p
             </tr>
             <tr>
                 <th>Big Data tools</th>
-                <td>PySpark, Kafka</td>
+                <td>PySpark</td>
             </tr>
             <tr>
                 <th>Editors and Notebooks & Visualisation tools</th>
-                <td>Vim, Emacs, Atom, VS Code, Jupyter Notebook</td>
+                <td>Vim, VS Code, Jupyter Notebook, Databricks</td>
             </tr>
             <tr>
                 <th>Cloud Platforms</th>
-                <td>GCP, AWS</td>
+                <td>GCP, AWS, Azure</td>
             </tr>
             <tr>
                 <th>Resource Management tools</th>
@@ -68,7 +68,7 @@ Update: I will be flying to University of Washington, Seattle for Fall 2022 to p
             </tr>
             <tr>
                 <th>Web Deployment and APIs</th>
-                <td>Flask, Django, Tensorflow serving</td>
+                <td>Flask, FastAPI, Streamlit</td>
             </tr>
 
 </table>
