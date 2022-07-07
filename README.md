@@ -40,7 +40,7 @@ Update: I will be flying to University of Washington, Seattle for Fall 2022 to p
             </tr>
             <tr>
                 <th>Data Storage Platforms and Database Management Systems</th>
-                <td>MySQL, Postgres, MongoDB</td>
+                <td>MySQL, DynamoDB, S3</td>
             </tr>
             <tr>
                 <th>Big Data tools</th>
