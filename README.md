@@ -34,7 +34,7 @@ Update: I'm looking for Full Time roles in MLE/DS, TPM for ML/DS teams.
 
 **INTERESTS**
 
-- My current interests are in understanding and automating certain business problems through Vision AI. 
+- Backpacking, Imaginary landscape painting, Nature photography, Gaming, Obscure restaurant exploration, BINGO 
 - You can share a good wildlife documentary with me. My recommendation to you is "The Last Lions", directed by Dereck Joubert and narrated by Jeremy Irons.
 
 <br>
