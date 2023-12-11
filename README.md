@@ -19,7 +19,7 @@ Hi! I'm Nikhil Kashyap, a Machine Learning Engineer with ~5 years of work experi
 
 Update: I will be flying to University of Washington, Seattle for Fall 2022 to pursue my Masters in Electrical Engineering.
 
-Update: I started working as a fully funded RA at (unBIASED lab)[https://www.unbiased.health/team]. 
+Update: I started working as a fully funded RA at [unBIASED lab](https://www.unbiased.health/team). 
 
 Update: I'm looking for summer 2023 internships in Data Science & Machine Learning. 
 
